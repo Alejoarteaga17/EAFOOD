@@ -12,3 +12,7 @@ no tan deseada por falta de disponibilidad, basándose en los horarios que los
 restaurante como, Bigos y Home food, donde su especialidad son los almuerzos y
 desayunos tipo caseros , manejan ciertos horarios donde ofrecen este tipo de
 alimentos y en caso de retraso se perdería la posibilidad de consumirlos
+##Actualizaciones.
+Antes de cada entrega cada integrante del equipo se encarga de realizar 
+alguna tarea para avanzar correctamente en el desarrollo del proyecto.
+Para el desarrollo de las activiadades solo se ha hecho uso de los computadores de cada estudiante, así como diferentes aplicaiones.
