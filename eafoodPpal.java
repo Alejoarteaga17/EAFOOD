@@ -4,6 +4,7 @@ package agendaelectronica.igu;
 /**
  * @author alejandro
  * Codigo funcionalidad principal reusado de proyecto antiguo 
+ * Proyecto desarrollado en NetBeans
  */
 public class Principal extends javax.swing.JFrame {
     String dnis[]= new String[10];
